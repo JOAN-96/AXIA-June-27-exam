@@ -63,6 +63,7 @@ canVote(17); // Calling the function with the age 17
 console.log('=================================');
 
 
+// QUESTION 5 ANSWER
 let temperatureStatus = (temp) => {
     if (temp < 0) {
         return 'Freezing';
